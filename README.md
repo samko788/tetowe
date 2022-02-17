@@ -1,2 +1,2 @@
-# tetowe
+# testowe
 Testowe repozytorium publiczne
